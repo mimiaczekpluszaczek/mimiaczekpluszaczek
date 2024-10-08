@@ -21,11 +21,11 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 - Mastering React
 - Delving into artificial intelligence, including machine learning and predictive models
 
-
 ### 🎯 2024 Goals:
-- Build a fully functional web app using Flask and React.
-- Contribute to open-source data science projects.
-- Explore more in-depth mathematical analysis in data-driven fields.
+- **Build a full-stack application**: Develop a complex web application combining React on the frontend and Flask or Node.js on the backend, with a PostgreSQL or MongoDB database.
+- **Publish a mobile app on Google Play/App Store**: Finalize the development of a mobile app (e.g., "Bidon" or "Pinpoint") and publish it on Google Play or App Store.
+- **Continue deepening my passion for technology and programming**: Constantly seeking to improve and broaden my skills, while exploring new technologies and innovative solutions.
+
 
 ### 📊 Coding Stats since 9/9/24:
 <!-- WakaTime odznaka -->
