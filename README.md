@@ -12,8 +12,8 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 
 ### 🚀 Projects
 - **[EDUKLASA](https://github.com/mimiaczekpluszaczek/EDU-KLASA)**: A web application for managing payments in non-public educational institutions, built using Flask and Python.
-- **[Bidon](https://github.com/mimiaczekpluszaczek/bidon)**: A mobile app featuring a shared photo album, allowing users to collaboratively store and share images.
-- **[Pinpoint](https://github.com/varedisY/pinpoint)**: A mobile app developed in Flutter that helps users explore cities more closely by offering personalized tours and recommendations.
+- **[bidon](https://github.com/mimiaczekpluszaczek/bidon)**: A mobile app featuring a shared photo album, allowing users to collaboratively store and share images.
+- **[pinpoint](https://github.com/varedisY/pinpoint)**: A mobile app developed in Flutter that helps users explore cities more closely by offering personalized tours and recommendations.
 - **[GastroFaza](https://github.com/JoeHeroes/GastroFaza)**: A restaurant management application developed in C#, designed to streamline restaurant operations from orders to inventory.
 
 ### 🌱 Learning
