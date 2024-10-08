@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31)
+
 
 <!--
 **mimiaczekpluszaczek/mimiaczekpluszaczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
