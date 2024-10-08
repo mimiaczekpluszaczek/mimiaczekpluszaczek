@@ -11,14 +11,10 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🚀 Projects
-- **[Data Analysis Project](https://github.com/mimiaczekpluszaczek/data-analysis-project)**: A project focused on mathematical data analysis using Python, Pandas, and Matplotlib.
-- **[Flask Web Application](https://github.com/mimiaczekpluszaczek/flask-app)**: A Flask-based web application that simplifies task management with a clean and intuitive user interface.
-- **[React Dashboard](https://github.com/mimiaczekpluszaczek/react-dashboard)**: A modern React-based dashboard for real-time data visualization, built using React and Chart.js.
-### 🚀 Projects
-- **EDUKLASA(https://github.com/mimiaczekpluszaczek/EDU-KLASA)**: A web application for managing payments in non-public educational institutions, built using Flask and Python.
-- **Bidon(https://github.com/mimiaczekpluszaczek/bidon) and **: A mobile app featuring a shared photo album, allowing users to collaboratively store and share images.
-- **pinpoint(https://github.com/varedisY/pinpoint)**: A mobile app developed in Flutter that helps users explore cities more closely by offering personalized tours and recommendations.
-- **GastroFaza(https://github.com/JoeHeroes/GastroFaza)**: A restaurant management application developed in C#, designed to streamline restaurant operations from orders to inventory.
+- **[EDUKLASA](https://github.com/mimiaczekpluszaczek/EDU-KLASA)**: A web application for managing payments in non-public educational institutions, built using Flask and Python.
+- **[Bidon](https://github.com/mimiaczekpluszaczek/bidon)**: A mobile app featuring a shared photo album, allowing users to collaboratively store and share images.
+- **[Pinpoint](https://github.com/varedisY/pinpoint)**: A mobile app developed in Flutter that helps users explore cities more closely by offering personalized tours and recommendations.
+- **[GastroFaza](https://github.com/JoeHeroes/GastroFaza)**: A restaurant management application developed in C#, designed to streamline restaurant operations from orders to inventory.
 
 ### 🌱 Learning
 - Exploring advanced data analysis techniques
