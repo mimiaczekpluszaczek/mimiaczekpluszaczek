@@ -11,9 +11,9 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🚀 Projects
-- **[Data Analysis Project](https://github.com/username/data-analysis-project)**: A project focused on mathematical data analysis using Python, Pandas, and Matplotlib.
-- **[Flask Web Application](https://github.com/username/flask-app)**: A Flask-based web application that simplifies task management with a clean and intuitive user interface.
-- **[React Dashboard](https://github.com/username/react-dashboard)**: A modern React-based dashboard for real-time data visualization, built using React and Chart.js.
+- **[Data Analysis Project](https://github.com/mimiaczekpluszaczek/data-analysis-project)**: A project focused on mathematical data analysis using Python, Pandas, and Matplotlib.
+- **[Flask Web Application](https://github.com/mimiaczekpluszaczek/flask-app)**: A Flask-based web application that simplifies task management with a clean and intuitive user interface.
+- **[React Dashboard](https://github.com/mimiaczekpluszaczek/react-dashboard)**: A modern React-based dashboard for real-time data visualization, built using React and Chart.js.
 
 ### 🌱 Learning
 - Advanced React Patterns
@@ -25,13 +25,13 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 - Contribute to open-source data science projects.
 - Explore more in-depth mathematical analysis in data-driven fields.
 
-### 📊 Weekly Coding Stats:
+### 📊 Coding Stats since 9/9/24:
 <!-- WakaTime odznaka -->
-[![wakatime](https://wakatime.com/badge/user/your-id.svg)](https://wakatime.com/@your-id)
+[![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31)
 
 ### 📬 Get in touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/twoj-profil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/micha%C5%82-dzieko%C5%84ski-7604911b3/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/mimiaczekpluszaczek)
 
 
 
