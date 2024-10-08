@@ -26,12 +26,10 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 - **Publish a mobile app on Google Play & App Store**: Finalize the development of a mobile app and publish it on Google Play or App Store.
 - **Continue deepening my passion for technology and programming**: Constantly seeking to improve and broaden my skills, while exploring new technologies and innovative solutions.
 
-
 ### 📊 Coding Stats since 9/9/24:
 <!-- WakaTime badges side by side -->
 [![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31)
-[![Languages over All Time](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/share/@b0e8782c-4666-463b-ba06-2d246156ca31/bc1ac659-4c28-4c86-b728-0ee64adf2d)
-
+[![WakaTime Stats](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://camo.githubusercontent.com/8986e06616ac3f87c3e15e8d1ab4c21f980b85ac492b214ad7f119c309b3f4fa/68747470733a2f2f77616b6174696d652e636f6d2f73686172652f4062306538373832632d343636362d343633622d626130362d3264323436313536636133312f62633161633635392d346332382d346338362d623732382d3065653634616466326438622e737667)
 
 
 ### 📬 Get in touch:
