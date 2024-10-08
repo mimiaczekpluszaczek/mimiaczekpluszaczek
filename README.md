@@ -16,9 +16,10 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 - **[React Dashboard](https://github.com/mimiaczekpluszaczek/react-dashboard)**: A modern React-based dashboard for real-time data visualization, built using React and Chart.js.
 
 ### 🌱 Learning
-- Advanced React Patterns
-- Machine Learning techniques for mathematical modeling
-- Cloud infrastructure using AWS
+- Exploring advanced data analysis techniques
+- Mastering React
+- Delving into artificial intelligence, including machine learning and predictive models
+
 
 ### 🎯 2024 Goals:
 - Build a fully functional web app using Flask and React.
