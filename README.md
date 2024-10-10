@@ -33,7 +33,7 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 
 
 ### 📬 Get in touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/micha%C5%82-dzieko%C5%84ski-7604911b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/michal-dziekonski/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/mimiaczekpluszaczek)
 
 
