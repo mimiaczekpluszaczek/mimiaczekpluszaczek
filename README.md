@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-I'm Michał Dziekoński, an engineer in Computer Science from Bialystok University of Technology and an active student of Applied Mathematics. I'm passionate about developing Python applications and performing data analysis, especially from a mathematical perspective. I have strong experience with Flask for building web applications, and I’m currently honing my skills in React.
+I'm Michał Dziekoński, an engineer in Computer Science from Bialystok University of Technology and an active student of Applied Mathematics. I'm passionate about developing Python applications and performing data analysis, especially from a mathematical perspective. I have strong experience with Django and Flask for building robust web applications, and I’m currently honing my skills in React.
 
 ### 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### 🚀 Projects
+- **[Kropka](https://kropka.infotech.edu.pl)**: A comprehensive school ERP system built with Django 6.0 and Python 3.9. Features complex role-based access control, automated accounting/tuition modules, custom theme engine (CSS variables), Anthropic SDK AI integrations, and a raw JSON-RPC Model Context Protocol (MCP) server. Deployed in production via Docker and PostgreSQL.
 - **[EDUKLASA](https://github.com/mimiaczekpluszaczek/EDU-KLASA)**: A web application for managing payments in non-public educational institutions, built using Flask and Python.
 - **[bidon](https://github.com/mimiaczekpluszaczek/bidon)**: A mobile app featuring a shared photo album, allowing users to collaboratively store and share images.
 - **[pinpoint](https://github.com/varedisY/pinpoint)**: A mobile app developed in Flutter that helps users explore cities more closely by offering personalized tours and recommendations.
