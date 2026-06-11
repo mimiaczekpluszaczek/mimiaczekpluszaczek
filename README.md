@@ -31,8 +31,7 @@ I'm Michał Dziekoński, an engineer in Computer Science from Bialystok Universi
 ### 📊 Coding Stats since 9/9/24:
 <!-- WakaTime badges side by side -->
 [![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31)
-[![WakaTime Stats](https://img.shields.io/badge/language_stats-all_the_time-blue)]([![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31))
-[![wakatime](https://wakatime.com/badge/user/b0e8782c-4666-463b-ba06-2d246156ca31.svg)](https://wakatime.com/@b0e8782c-4666-463b-ba06-2d246156ca31)
+
 
 ### 📬 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/michal-dziekonski/)
